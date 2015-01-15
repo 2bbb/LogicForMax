@@ -206,7 +206,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-60",
@@ -4979,9 +4978,9 @@
 , 			{
 				"box" : 				{
 					"angle" : 270.0,
-					"bgcolor" : [ 0.8, 0.8, 0.8, 1.0 ],
+					"bgcolor" : [ 0.5, 0.5, 0.5, 1.0 ],
 					"border" : 2,
-					"bordercolor" : [ 0.2, 0.2, 0.2, 1.0 ],
+					"bordercolor" : [ 0.3, 0.3, 0.3, 1.0 ],
 					"id" : "obj-40",
 					"maxclass" : "panel",
 					"mode" : 0,
